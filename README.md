@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-My implementation of Tic-Tac-Toe using Python
+This is my implementation of the game Tic-Tac-Toe using Python. The game is currently in a Jupyter Notebook file. More version will be coming out soon...
